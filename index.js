@@ -317,4 +317,4 @@ http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
 
 
 
-bot.login("Njc4NjQ4NjM5NTEzNDI3OTc4.Xsimww.tDlpuY0lUA-eHLuZtFiQ1kDmQnk"); 
+bot.login("yourtoken"); 
